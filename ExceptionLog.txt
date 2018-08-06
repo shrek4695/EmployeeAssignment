@@ -1,0 +1,18 @@
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Company.Department.AddEmployeeDetails(Employee emp) in C:\Users\skapoor\source\repos\Employee\Employee\Program.cs:line 95
+Qualification Cannot be Empty
+Invalid Qualification
+Invalid Qualification
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Company.Department.AddEmployeeDetails(Employee emp) in C:\Users\skapoor\source\repos\Employee\Employee\Program.cs:line 95
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Company.Department.AddEmployeeDetails(Employee emp) in C:\Users\skapoor\source\repos\Employee\Employee\Program.cs:line 95
